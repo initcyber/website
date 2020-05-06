@@ -1,0 +1,5 @@
+Sitemap: https://www.initcyber.com/sitemap.xml
+Sitemap: https://www.initcyber.com/news-sitemap.xml
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
